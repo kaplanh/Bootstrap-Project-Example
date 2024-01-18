@@ -49,7 +49,8 @@ This website created by bootstrap as a example.
 
 [Live Link](https://kaplanh.github.io/Bootstrap-Project-Example/)
 
-[bootstrapwebsite](https://github.com/kaplanh/Bootstrap-Project-Example/assets/101884444/93b8905d-a7cc-4617-b84c-f757b8a8a28b)
+
+![Bootstrap Example](https://github.com/kaplanh/Bootstrap-Project-Example/assets/101884444/8a45c7d4-526f-4fd8-aed6-49f8d5b77e10)
 
 <div id="user-content-toc">
   <ul align="left">
