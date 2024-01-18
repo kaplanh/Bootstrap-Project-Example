@@ -25,7 +25,7 @@
 
     
    </td>
-    <td> <li> <a href="https://github.com/AliDurul" target="_blank">Take a look at my other projects</a> <li> <a href="https://www.linkedin.com/in/ali-durul/" target="_blank">Visit me on Linkedin</a> 
+    <td> <li> <a href="https://github.com/kaplanh" target="_blank">Take a look at my other projects</a> <li> <a href="inkedin.com/in/kaplan-h/" target="_blank">Visit me on Linkedin</a> 
   </tr>
   <tr>
     <td colspan="3"><h3>What is this project about ?</h3> 
@@ -46,9 +46,9 @@ This website created by bootstrap as a example.
 </div>
 
 
-[Live Link](https://bootstrap-website-example.vercel.app)
+[Live Link](https://kaplanh.github.io/Bootstrap-Project-Example/)
 
-![bootstrapwebsite](https://github.com/AliDurul/Bootstrap-Website-Example/assets/80897590/42b26f58-2a5d-4ac8-835c-bb4ce6640383)
+![bootstrapwebsite]()
 
 <div id="user-content-toc">
   <ul align="left">
