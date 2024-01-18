@@ -18,6 +18,7 @@
       <li> Bootstrap
       <li> Css
       <li> Html
+      <li> fslightbox.js
     </td>
     <td>  <h4>Once you clone the project</h4>  
       
