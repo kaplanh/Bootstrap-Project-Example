@@ -1,50 +1,50 @@
-:root{
+:root {
     --red: #dc3545;
 }
 
 /*! -------------- 1- NAVBAR -------------- */
 
-.navbar-nav{
+.navbar-nav {
     font-size: 1.3rem;
     text-transform: uppercase;
     font-weight: 600;
 }
 
-.navbar .nav-link:hover{
-    color:var(--red) !important ;
+.navbar .nav-link:hover {
+    color: var(--red) !important ;
 }
 
 /*! -------------- 2- CAROUSEL -------------- */
 
-.carousel-item{
+.carousel-item {
     max-height: calc(100vh - 95px);
 }
 
-.carousel-caption .btn{
+.carousel-caption .btn {
     width: 7rem;
 }
-.carousel-caption h5{
+.carousel-caption h5 {
     color: var(--red);
     font-size: 2.4rem;
     text-shadow: 3px 3px 3px black;
 }
-.carousel-caption p{
+.carousel-caption p {
     text-shadow: 3px 3px 3px black;
     font-weight: 600;
 }
 
-.carousel-caption{
+.carousel-caption {
     /* border: 5px solid red; */
     /* margin-bottom: 7rem; */
     bottom: 5rem;
 }
 
-.carousel-indicators{
+.carousel-indicators {
     gap: 0.7rem !important;
 }
-.carousel-indicators button{
+.carousel-indicators button {
     background-color: var(--red) !important;
-    padding: .1rem !important;
+    padding: 0.1rem !important;
     width: 3rem !important;
     /* margin-right: 1rem !important; */
 }
@@ -53,30 +53,30 @@
 
 /*! -------------- 4- INSTRUCTORS -------------- */
 
-section#instructors .card{
+section#instructors .card {
     transition: transform 1s;
 }
-section#instructors .card:hover{
+section#instructors .card:hover {
     transform: scale(1.03);
 }
 
-section#instructors i{
-    transition: opacity .6s;
+section#instructors i {
+    transition: opacity 0.6s;
 }
-section#instructors i:hover{
-    opacity:0.5 ;
+section#instructors i:hover {
+    opacity: 0.5;
 }
 
 /*! -------------- 4- STUDENTS SECTION -------------- */
 
 /*! -------------- 5- COURSES SECTION -------------- */
-section#courses .nav-link.active{
-    background-color: var(--red)  ;
+section#courses .nav-link.active {
+    background-color: var(--red);
 }
-section#courses .nav-link{
+section#courses .nav-link {
     color: white;
 }
-section#courses .nav-pills{
+section#courses .nav-pills {
     font-size: 0.8rem;
 }
 
@@ -84,41 +84,41 @@ section#courses .nav-pills{
 
 /*! -------------- 7- FOOTER -------------- */
 
-footer i{
+footer i {
     color: white;
     font-size: 2rem;
     margin-right: 0.8rem;
     transition: color 1s;
-
 }
 
-footer i:hover{
+footer i:hover {
     color: var(--red);
 }
 
 /*! -------------- 8- BUTTON -------------- */
 
-.btn-up{
-position: fixed;
-bottom: 1rem;
-right: 1rem;
-background-color: var(--red);
-width: 50px;
-height: 50px;
-border-radius: 50%;
-display: flex;
-justify-content: center;
-align-items: center;
-text-decoration: none;
-color: white;
-font-size: 5rem;
-/* transition: all 1s; */
+.btn-up {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    color: white;
+    background-color: var(--red);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    text-decoration: none;
+    transition: all 0.1s;
 }
 
-.btn-up:hover{
-    color: yellow;
+.btn-up:hover {
+    color: black;
 }
 
-.btn-up:hover i{
-    transform: scale(1.5);
+.btn-up:hover i {
+    transform: scale(1.2);
+    font-size: 1.4rem;
 }
