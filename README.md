@@ -4,6 +4,11 @@
   </ul>
 </div>
 
+
+![Bootstrap Example](https://github.com/kaplanh/Bootstrap-Project-Example/assets/101884444/8a45c7d4-526f-4fd8-aed6-49f8d5b77e10)
+
+[Live Link](https://kaplanh.github.io/Bootstrap-Project-Example/)
+
 <table>
    <thead>
         <tr>
@@ -47,10 +52,7 @@ This website created by bootstrap as a example.
 </div>
 
 
-[Live Link](https://kaplanh.github.io/Bootstrap-Project-Example/)
 
-
-![Bootstrap Example](https://github.com/kaplanh/Bootstrap-Project-Example/assets/101884444/8a45c7d4-526f-4fd8-aed6-49f8d5b77e10)
 
 <div id="user-content-toc">
   <ul align="left">
